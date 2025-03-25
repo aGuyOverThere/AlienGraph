@@ -12,19 +12,12 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[Jacques-Vallee-descubrimiento-ovnis-historia-extraterrestres-A.jpg|inlR|300]]
 - **Name**: Jacques Fabrice Vallée 
 - **Aliases**: N/A
 - **Date of Birth**: September 24th, 1939
 - **Nationality**: France
 - **Occupation**: Computer Scientist, Venture Capitalist, Author, Ufologist
-- **Trust Score:** [Google Sheets Scoring Matrix](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?usp=sharing)
-
-<details>
-<summary><b>Trust Score Analysis</b></summary>
-<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/" alt="Trust Score"/>
-</details>
-
 ## Background
 
 - **Biography**: [Wikipedia](https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e)

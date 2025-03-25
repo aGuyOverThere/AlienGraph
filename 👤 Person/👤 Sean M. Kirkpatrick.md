@@ -13,7 +13,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[Kirkpatrick-Dr.-Sean_2021.jpg|inlR|200]]
 - **Name**: Sean M. Kirkpatrick
 - **Aliases**: 
 - **Date of Birth**:

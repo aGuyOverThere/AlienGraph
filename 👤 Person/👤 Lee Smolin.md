@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[220px-LeeSmolinAtHarvard.JPG|inlR|200]]
 - **Name**: Lee Smolin
 - **Aliases**: N/A
 - **Date of Birth**: June 6, 1955

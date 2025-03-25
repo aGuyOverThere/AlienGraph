@@ -13,50 +13,36 @@ author:
 
 ## Basic Information
 
-- **Name**: 
+![[Russell_Targ,_physicist.jpg|inlR|200]]
+
+- **Name**: Russell Targ
 - **Aliases**: 
-- **Date of Birth**: 
-- **Nationality**: 
-- **Occupation**: 
-- **Trust Score:** [Google Sheets Scoring Matrix](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?usp=sharing)
-
-<details>
-<summary><b>Trust Score Analysis</b></summary>
-<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/" alt="Trust Score"/>
-</details>
-
+- **Date of Birth**: April 11, 1934
+- **Nationality**:  U.S.
+- **Occupation**: Physicist, Parapsychologist, Author
 ## Background
 
 - **Biography**: 
+- 
+Targ joined Stanford Research Institute (SRI) [[🏛️ SRI International]] in 1972 where he and[[👤 Harold E. Puthoff]] coined the term [[📜 Remote Viewing]] for the practice of seeking impressions about a distant or unseen target using parapsychological means. Later, he worked with Puthoff on the [[🏛️ Defense Intelligence Agency]] [[🏛️ Stargate Project]].
+
+Targ's work on remote viewing has been characterized as pseudoscience and has also been criticized for lack of rigor.
+
 - **Education**: 
+	- 1954, B.S. Physics from Queens College
+	- Completed two (2) years of Physics Graduate work at Columbia University without taking a degree.
 - **Employment History**: 
+	- 1972-1982 [[🏛️ SRI International]]
+	- 1985-1997 [[🏛️ Lockheed Martin]] Missiles and Space
 
 ## Online Presence
 
 ### Social Media
 
-- **Platform 1**: [Username or profile link]
-- **Platform 2**: [Username or profile link]
-- **Platform 3**: [Username or profile link]
+- https://www.linkedin.com/in/russell-targ-085b8816/
 
 ### Websites
 
-- **Website 1**: [URL and description of the website]
-- **Website 2**: [URL and description of the website]
-- **Website 3**: [URL and description of the website]
+- https://en.wikipedia.org/wiki/Russell_Targ
+- https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220006-3
 
-### Email Addresses
-
-- **Email 1**: [Email address and additional details]
-- **Email 2**: [Email address and additional details]
-- **Email 3**: [Email address and additional details]
-
-## Contact Information
-
-- **Phone Numbers**: [List of known phone numbers]
-- **Physical Address**: [Address details, if available]
-- **Email Addresses**: [List of known email addresses]
-
-## Notes
-
-[Add any additional notes or observations regarding the person of interest.]

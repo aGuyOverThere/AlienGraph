@@ -10,56 +10,23 @@ author:
 ---
 
 ----
-
 ## Basic Information
-
-- **Name**: 
-- **Aliases**: 
-- **Date of Birth**: 
-- **Nationality**: 
-- **Occupation**: 
-- **Trust Score:** [Google Sheets Scoring Matrix](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?usp=sharing)
-
-<details>
-<summary><b>Trust Score Analysis</b></summary>
-<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/" alt="Trust Score"/>
-</details>
+![[patprice.jpeg|inlR|200]]
+- **Name**: Pat Price
+- **Aliases**:  N/A
+- **Date of Birth**: N/A
+- **Nationality**: U.S.
+- **Occupation**: #remote_viewing , psychic
 
 ## Background
 
 - **Biography**: 
 
-Was a viewer in [[🏛️ Project Sun Streak]]
-
-- **Education**: 
-- **Employment History**: 
+Was a viewer in [[🏛️ Project Sun Streak]]. A former Burbank, California, police officer and former Scientologist ([[🏛️ Scientology]]) who participated in a number of Cold War era [[📜 Remote Viewing]] experiments, including the US government-sponsored projects SCANATE and the [[🏛️ Stargate Project]]. Price joined the program after a chance encounter with fellow Scientologists (at the time) [[👤 Harold E. Puthoff]]and [[👤 Ingo Swann]] near [[🏛️ SRI International]]. Working with maps and photographs provided to him by the [[🏛️ Central Intelligence Agency]], Price claimed to have been able to retrieve information from facilities behind Soviet lines. He is probably best known for his sketches of cranes and gantries which appeared to conform to CIA intelligence photographs. At the time, the CIA took his claims seriously.
 
 ## Online Presence
 
 ### Social Media
 
-- **Platform 1**: [Username or profile link]
-- **Platform 2**: [Username or profile link]
-- **Platform 3**: [Username or profile link]
+- https://www.cia.gov/readingroom/search/site/pat%20price
 
-### Websites
-
-- **Website 1**: [URL and description of the website]
-- **Website 2**: [URL and description of the website]
-- **Website 3**: [URL and description of the website]
-
-### Email Addresses
-
-- **Email 1**: [Email address and additional details]
-- **Email 2**: [Email address and additional details]
-- **Email 3**: [Email address and additional details]
-
-## Contact Information
-
-- **Phone Numbers**: [List of known phone numbers]
-- **Physical Address**: [Address details, if available]
-- **Email Addresses**: [List of known email addresses]
-
-## Notes
-
-[Add any additional notes or observations regarding the person of interest.]

@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[Luis-Elizondo-Publicity-H-2021.webp|inlR|300]]
 - **Name**: Luis Elizondo
 - **Aliases**: Lue
 - **Date of Birth**: unknoen

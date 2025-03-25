@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[richard-g-hopf-89a0ad01.jpg|inlR|200]]
 - **Name**: Richard G. Hopf
 - **Aliases**: N/A
 - **Date of Birth**: N/A

@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[david_grusch.jpg|inlR|300]]
 - **Name**: David Charles Grusch
 - **Aliases**: N/A
 - **Date of Birth**: N/A, Born in Pittsburgh, PA
@@ -37,3 +37,22 @@ Born in Pittsburgh, Pennsylvania, Grusch was a decorated combat officer within t
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSj7QsHRxHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Notable Claims
+
+In June 2023, Grusch came forward as a whistleblower, making several significant claims about the U.S. government's involvement with UAP:
+
+1. The U.S. government has possession of intact and partially intact craft of non-human origin
+2. There exists a decades-long secret program to reverse engineer these craft
+3. The program has been illegally withheld from Congress
+4. Personnel involved in UAP recovery operations have been harmed or injured
+5. The U.S. has knowledge of non-human intelligence
+
+## Testimony
+
+On July 26th, 2023, Grusch testified under oath before the House Oversight Committee's Subcommittee on National Security, the Border, and Foreign Affairs. During his testimony, he reiterated his claims about the existence of a secret UAP program and provided additional details about his knowledge of the program.
+
+## Related Content
+
+- [[🔥 David Grusch Testimony]]
+- [[🏛️ AARO]]

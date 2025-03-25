@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[Christopher-Green-metascience-2019-symposium.jpg|inlR|200]]
 - **Name**: Christopher Green
 - **Aliases**: Kit
 - **Date of Birth**: N/A
@@ -20,13 +20,6 @@ author: aGuyOverThere
 - **Occupation**: 
 	- Professor at Wayne State School of Medicine
 	- CTO at [[🏛️ Central Intelligence Agency]] for 20 years.
-- **Trust Score:** [Google Sheets Scoring Matrix](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?usp=sharing)
-
-<details>
-<summary><b>Trust Score Analysis</b></summary>
-<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/" alt="Trust Score"/>
-</details>
-
 ## Background
 
 - **Biography**: 
@@ -44,8 +37,6 @@ Kit is a Professor in Forensic Neuroimaging in the Departments of Diagnostic Rad
 
 - https://journalnews.com.ph/ex-cia-scientist-believed-roswell-alien-autopsy-film-was-real-leaked-memo-revealed/
 - https://www.metascience2019.org/special-guests/christopher-green/
-- **Website 3**: [URL and description of the website]
-
 ## Notes
 
 In a leaked memo while at the CIA, Kit talked about how the [[📜 Alien Autopsy]] video was, in-fact, real

@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[salexan4_photo_.jpg|inlR|200]]
 - **Name**: Stephon Haigh-Solomon Alexander
 - **Aliases**: N/A
 - **Date of Birth**: March 30, 1971

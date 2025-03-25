@@ -10,9 +10,8 @@ author: aGuyOverThere
 ---
 
 ----
-
 ## Basic Information
-
+![[ronald_moultrie.JPG|inlR|200]]
 - **Name**: Ronald Moultrie
 - **Aliases**: Ron
 - **Date of Birth**: Unknown

@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[ryan_graves.jpg|inlR|200]]
 - **Name**: Ryan Graves
 - **Aliases**: N/A
 - **Date of Birth**: N/A

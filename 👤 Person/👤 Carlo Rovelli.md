@@ -10,7 +10,7 @@ author: aGuyOverThere
 ---
 
 ----
-
+![[Carlo_Rovelli_no_Fronteiras_do_Pensamento_São_Paulo_2017_(34781380545).jpg|inlR|200]]
 ## Basic Information
 
 - **Name**: Carlo Rovelli

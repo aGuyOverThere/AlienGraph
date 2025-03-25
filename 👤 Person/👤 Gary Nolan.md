@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[gary_nolan.jpg|inlR|200]]
 - **Name**: Gary P. Nolan
 - **Aliases**: N/A
 - **Date of Birth**: 1961

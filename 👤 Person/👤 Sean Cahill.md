@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[sean_cahill.jpg|inlR|200]]
 - **Name**: Sean Cahill
 - **Aliases**: N/A
 - **Date of Birth**: N/A

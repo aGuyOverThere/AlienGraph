@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[franc-milburn-640.jpg|inlR|200]]
 - **Name**: Franc Milburn
 - **Aliases**:  N/A
 - **Date of Birth**: N/A

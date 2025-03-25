@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[Salvatore_Pais.png|inlR|200]]
 - **Name**: Salvatore Cezar Pais
 - **Aliases**: N/A
 - **Date of Birth**: N/A 

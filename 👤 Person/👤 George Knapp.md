@@ -12,18 +12,12 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[George-Knapp_web.webp|inlR|200]]
 - **Name**: George T. Knapp
 - **Aliases**: n/a
 - **Date of Birth**: April 18th, 1953
 - **Nationality**: U.S.
 - **Occupation**: Investigative Journalist at KLAS (Las Vegas)
-- **Trust Score:** [Google Sheets Scoring Matrix](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?usp=sharing)
-
-<details>
-<summary><b>Trust Score Analysis</b></summary>
-<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/" alt="Trust Score"/>
-</details>
 
 ## Background
 

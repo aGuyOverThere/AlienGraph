@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[bob_lazar.jpg|inlR|200]]
 - **Name**: Robert Scott Lazar
 - **Aliases**: Bob
 - **Date of Birth**: January 26th, 1959
@@ -59,3 +59,40 @@ author: aGuyOverThere
 ## Notes
 
 Lazar has claimed that during his joining the program at S-4, he read briefing documents describing the historical involvement of Earth for the past 10,000 years with extraterrestrial beings described as grey aliens (Similar to [[🕵️ EBOscientistA Reddit Post]]) from a planet orbiting the twin binary star system Zeta Reticuli. As of September 2019, no extrasolar planets have been found in the Zeta Reticuli system. In 1989, Lazar said the seats of the saucer he saw were approximately child-sized and that he had seen alien cadavers of a corresponding size.
+
+## Key Claims
+
+1. Element 115
+   - Before its synthesis, Lazar claimed Element 115 was used as fuel in alien spacecraft
+   - He described properties that were later partially confirmed when the element was synthesized in 2003
+   - Claims the element is stable in its alien form (unlike synthesized versions)
+
+2. S-4 Facility
+   - Located near Papoose Lake
+   - Contains multiple hangers built into the mountainside
+   - Houses multiple alien spacecraft
+   - Includes facilities for reverse-engineering alien technology
+
+3. Alien Technology
+   - Describes "gravity wave" propulsion systems
+   - Claims spacecraft manipulate gravity for propulsion
+   - Details reactor and propulsion system designs
+
+## Verification Attempts
+
+### Supporting Evidence
+- Employment at Los Alamos confirmed through phone directory and news article
+- Element 115 was later synthesized (though with different properties)
+- Some aspects of S-4 location description match geographical features
+
+### Contradicting Evidence
+- No verification of claimed educational background
+- Inconsistencies in technical descriptions
+- No independent confirmation of S-4 facility
+- Bankruptcy filing during claimed period at MIT
+
+## Related Content
+
+- [[📜 Element 115]]
+- [[🏛️ S-4 Facility]]
+- [[🔭 Gravity Propulsion Theory]]

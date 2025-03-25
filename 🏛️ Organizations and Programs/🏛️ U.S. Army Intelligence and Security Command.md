@@ -25,7 +25,6 @@ A brief history of their mission, why they were established, and what they're pr
 ## Projects/Programs
 
 - [[🏛️ Gondola Wish Program]]
-- Program 2
 
 ## Online Presence
 

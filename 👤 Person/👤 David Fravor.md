@@ -13,7 +13,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[david_fravor.jpg|inlR|400]]
 - **Name**: David Fravor
 - **Aliases**: N/A
 - **Date of Birth**: N/A

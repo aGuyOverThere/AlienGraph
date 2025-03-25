@@ -12,7 +12,7 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[eric_davis.jpg|inlR|200]]
 - **Name**: Dr. Eric W. Davis
 - **Aliases**: N/A
 - **Date of Birth**: N/A

@@ -6,10 +6,12 @@
 <p style="font-size:120%">
 An Obsidian repository for non-earth originating research and analysis.
 </p>
-<a href="https://discord.gg/MJzQGzPGSG"><img src="https://wiki.bfee.co/images/d/dd/Discord.png" height=50% width=50% style="border:solid var(--surfaceVariant) 1px; border-radius:10px;"/></a>
+<a href="https://discord.gg/VFwutscPsC"><img src="https://wiki.bfee.co/images/d/dd/Discord.png" height=50% width=50% style="border:solid var(--surfaceVariant) 1px; border-radius:10px;"/></a>
 
 </strong>
 </center>
+
+> Last Update: March 11th, 2025
 
 ## Tenets
 
@@ -43,4 +45,29 @@ We understand that much of this information can be subjective and qualitative. A
 2. To consolidate information (Open Source) using accepted methods and practices adding additional validity to claims.
 3. To enable interested parties who don't know where to start by teaching and communicating.
 4. To utilize the community as a whole to scale the content making it even more impactful.
+
+
+## Contribution and Management
+
+Contributors can use any of the following methods to add/edit content to this site:
+
+1. Add/Update content in our [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing)
+2. Create Pull requests on  [our git repository](https://github.com/aGuyOverThere/AlienGraph).
+3. Send us a Email at alienanalyzer@gmail.com
+
+For those who like to help out with GitHub or Content moderation, please reach out via alienanalyzer@gmail.com. 
+
+
+## How Do I Start Editing?
+
+**Install Necessary Tools:**
+1. Download and install [Obsidian](https://obsidian.md/)
+2. Read [[⭐ Setup Obsidian]]
+3. Sync your Drive to our  [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing) and use this as your Obsidian Vault.
+4. Use or adjust the `_templates` to write/document.
+5. Upload docs to Google Drive **or** send us an email **or** make a pull request on GitHub.
+**OR**
+1. [Optional] Download and install [Git](https://github.com/git-guides/install-git)
+2. [Optional] `git clone https://github.com/aGuyOverThere/AlienGraph.git`
+3. [Optional] Use the git repo as your Obsidian Vault
 

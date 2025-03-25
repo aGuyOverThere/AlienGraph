@@ -6,13 +6,13 @@ year:  2023
 tags:
 - 07-2023
 - poi
-author:aGuyOverThere
+Author:aGuyOverThere
 ---
 
 ----
 
 ## Basic Information
-
+![[avi_loeb.jpg|inlR|200]]
 - **Name**: Abraham Loeb
 - **Aliases**: Avi 
 - **Date of Birth**: February 26th, 1962

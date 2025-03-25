@@ -12,13 +12,12 @@ author: aGuyOverThere
 ----
 
 ## Basic Information
-
+![[Vadm_thomas_r_wilson.jpg|inlR|200]]
 - **Name**:  Thomas R. WIlson
 - **Aliases**: Admiral Wilson
 - **Date of Birth**: 4 March 1946
 - **Nationality**: US
 - **Occupation**: Retied Navy Admiral, Prior Director of [[🏛️ Defense Intelligence Agency]]
-
 
 ## Background
 
